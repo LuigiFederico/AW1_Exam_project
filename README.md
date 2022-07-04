@@ -1,5 +1,5 @@
-# Exam #1: "Piano degli studi"
-## Student: s295740 FEDERICO LUIGI 
+# Exam #1: "Piano degli studi" - Applicazioni Web I - Politecnico of Turin
+## Student: FEDERICO LUIGI 
 ---
 ## React Client Application Routes
 
